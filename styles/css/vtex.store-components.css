@@ -10,7 +10,7 @@
 
 .infoCardCallActionContainer :global(.vtex-button) {
     color           : white;
-    background-color: rgb(170, 170, 170);
+    background-color: gray;
     border          : transparent;
 }
 
