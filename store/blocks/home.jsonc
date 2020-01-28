@@ -12,6 +12,7 @@
     "children": [
       "info-card#rethink",
       "rich-text#deletar",
+      "rich-text",
       "flex-layout.col"
     ]
   },
