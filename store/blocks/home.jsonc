@@ -7,13 +7,13 @@
       "info-card#button-left",
       "image#electronics",
       "image#major-appliance",
-      "image#major-appliance"
     ]
   },
-  "flex-layout.col":{
+  "flex-layout.row":{
     "children": [
       "rich-text#deletar",
       "image#electronics"
+      "image#major-appliance"
       
     ]
   },
