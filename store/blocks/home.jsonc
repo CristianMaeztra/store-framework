@@ -11,12 +11,11 @@
   "flex-layout.row": {
     "children":[
       "info-card#rethink",
-      "rich-text#deletar",
-      "rich-text"
+      "rich-text#deletar"      
     ]
   },
 
-  "rich-text": {
+  "flex-layout.col": {
     "props": {
       "text": "**Hello, World!**",
       "textPosition": "RIGHT"
