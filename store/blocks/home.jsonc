@@ -11,7 +11,14 @@
   "flex-layout.row": {
     "children": [
       "info-card#rethink",
-      "rich-text#deletar"
+      "rich-text#deletar",
+      "flex-layout.col"
+    ]
+  },
+  "flex-layout.col": {
+    "children": [
+      "image#electronics",
+      "image#major-appliance"
     ]
   },
   "info-card#rethink": {
