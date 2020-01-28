@@ -11,7 +11,8 @@
   "flex-layout.row": {
     "children":[
       "info-card#rethink",
-      "rich-text#deletar"
+      "rich-text#deletar",
+      "rich-text"
     ]
   },
 
