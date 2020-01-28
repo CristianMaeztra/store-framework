@@ -2,8 +2,7 @@
   "store.home": {
     "blocks": [
       "flex-layout.row",
-      "flex-layout.col",
-      "rich-text",
+      "flex-layout.col",      
       "info-card",
       "image"
     ]
@@ -11,8 +10,7 @@
   "flex-layout.row": {
     "children": [
       "info-card#rethink",
-      "rich-text#deletar",
-      "rich-text",
+      "rich-text#deletar",      
       "flex-layout.col"
     ]
   },
