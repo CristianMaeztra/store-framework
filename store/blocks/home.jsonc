@@ -12,7 +12,7 @@
   "flex-layout.row":{
     "children": [
       "rich-text#deletar",
-      "image#electronics"
+      "image#electronics",
       "image#major-appliance"
       
     ]
