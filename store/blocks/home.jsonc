@@ -16,11 +16,12 @@
   },
 
   "flex-layout.col": {
-    "props": {
-      "text": "**Hello, World!**",
-      "textPosition": "RIGHT"
-    }
+    "children":[
+      "rich-text#deletar",
+      "image#major-appliance"        
+    ]
   },
+ 
   "info-card#button-right": {
     "props": {
       "isFullModeStyle": false,
